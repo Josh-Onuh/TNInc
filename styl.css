@@ -1,0 +1,64 @@
+.header {
+    background-image:url('tech-bg.png');
+    text-align: center; 
+    color:honeydew;
+    font-size: 40px; 
+    font-family: 'Courier New', Courier, monospace;
+    padding: 25px;
+    border: 5px solid #0d1a26;
+    width: auto;
+    position: relative;
+}
+#motto {
+    font-family: times; 
+    margin-top: -55px; 
+    text-emphasis:none; 
+    font-size: 25px;
+    text-align: center; 
+    font-style:normal;
+    color: #ffffff;
+}
+
+.navbar {
+    width: auto;
+    background-color: #052236;
+    padding: 6px;
+}
+
+.navbar a {
+    color: #ffffff;
+    float: left;
+    padding: 2px 8px;
+    margin-top: -1px;
+    display: block;
+    font-size: 17px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.search-container input[type=text] {
+    float:right;
+    padding: 2px;
+    border: 1px solid #0d1a26;
+    margin-top: -22px;
+    margin-left: -5px;
+    font-size: 17px;
+}
+.main {
+    position: relative;
+    width: auto;
+    height: 700px;
+    padding: 25px;
+    margin: 0px;
+    border: 2px solid #37393a;
+}
+footer{
+    background-color:#535758;
+    text-align: center;
+    padding: 25px;
+    margin: 0px;
+    width: auto;
+    border: 2px solid #37393a;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
