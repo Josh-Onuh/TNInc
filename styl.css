@@ -1,4 +1,4 @@
-.header {
+header {
     background-image:url('tech-bg.png');
     text-align: center; 
     color:honeydew;
@@ -21,9 +21,9 @@
     color: #ffffff;
 }
 
-.navbar {
+nav {
     max-width: auto;
-    background-color: #052236;
+    background-color: #072055;
     padding: 6px;
     padding-left: 0px;
     padding-right: 0px;
@@ -32,7 +32,7 @@
     transition: 0.3s;
 }
 
-.navbar a {
+nav a {
     color: #ffffff;
     float: left;
     padding: 2px 8px;
@@ -61,7 +61,7 @@
     padding-right: 0px;
 }
 .xgt{
-    background-color:#050725;
+    background-color:#93a2c4;
     padding: 25px;
     margin: 0px;
     border: 0px solid #37393a;
@@ -72,13 +72,13 @@
     height: 200px;
 }
 footer{
-    background-color:#93a2c4;
+    background-color:#030c20;
     text-align: center;
     padding: 25px;
     margin: 0px;
     max-width: auto;
     border: 0px solid #37393a;
-    color: #000000;
+    color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 0px;
     padding-right: 0px;
