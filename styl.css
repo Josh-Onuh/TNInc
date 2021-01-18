@@ -29,7 +29,6 @@ nav {
     padding-right: 0px;
     display: block;
     position: relative;
-    transition: 0.3s;
 }
 
 nav a {
@@ -50,7 +49,7 @@ nav a {
     margin-left: -5px;
     font-size: 17px;
 }
-.main {
+.container-main {
     position: relative;
     max-width: auto;
     height: 700px;
