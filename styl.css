@@ -71,6 +71,17 @@ nav a {
     padding-right: 0px;
     height: 200px;
 }
+.icon-bar{
+    position: relative;
+    display: block;
+    padding: 5px;
+    margin-right: -53px;
+    float: right;
+    top: 79%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
 footer{
     background-color:#030c20;
     text-align: center;
