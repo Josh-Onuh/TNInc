@@ -1,0 +1,24 @@
+{
+  "name": "tninc",
+  "version": "1.0.0",
+  "description": "TNInc website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh-Onuh/TNInc.git"
+  },
+  "author": "Jush <jjamesonuh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh-Onuh/TNInc/issues"
+  },
+  "homepage": "https://github.com/Josh-Onuh/TNInc#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
