@@ -5,7 +5,8 @@ header {
     font-size: 40px; 
     font-family: 'Courier New', Courier, monospace;
     padding: 25px;
-    border: 5px solid #0d1a26;
+    border-top: 5px solid #0d1a26;
+    border-bottom: 5px solid #0d1a26;
     max-width: auto;
     position: relative;
     padding-left: 0px;
@@ -13,7 +14,7 @@ header {
 }
 #motto {
     font-family: times; 
-    margin-top: -55px; 
+    margin-top: -5px; 
     text-emphasis:none; 
     font-size: 25px;
     text-align: center; 
@@ -41,15 +42,15 @@ nav a {
     font-family:'Times New Roman', Times, serif;
     text-align: center;
 }
-.search-container input[type=text] {
+.search input[type=text] {
     float:right;
     padding: 2px;
     border: 1px solid #0d1a26;
-    margin-top: -22px;
-    margin-left: -5px;
+    margin-top: -30px;
+    margin-right: 5px;
     font-size: 17px;
 }
-.container-main {
+.main {
     position: relative;
     max-width: auto;
     height: 700px;
@@ -64,32 +65,21 @@ nav a {
     padding: 25px;
     margin: 0px;
     border: 0px solid #37393a;
-    max-width: auto;
+    max-width:0px auto;
     position: relative;
     padding-left: 0px;
     padding-right: 0px;
     height: 200px;
 }
-.icon-bar{
-    position: relative;
-    display: block;
-    padding: 5px;
-    margin-right: -53px;
-    float: right;
-    top: 79%;
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    transform: translateX(-50%);
-}
-footer{
+.footer{
     background-color:#030c20;
-    text-align: center;
-    padding: 25px;
     margin: 0px;
-    max-width: auto;
-    border: 0px solid #37393a;
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
-    padding-left: 0px;
-    padding-right: 0px;
+    padding: 20px 0px 20px 0px;
+}
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color: #ffffff;
 }
